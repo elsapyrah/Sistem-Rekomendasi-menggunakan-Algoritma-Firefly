@@ -1,1 +1,3 @@
 # Sistem-Rekomendasi-menggunakan-Algoritma-Firefly
+
+Proyek ini untuk salah satu tugas dari mata kuliah Swarm Intelligence dengan mengembangkan sistem rekomendasi film melalui pendekatan Collaborative Filtering menggunakan Pearson Correlation untuk menghitung kesamaan antar pengguna. Untuk mengatasi masalah sparsity pada data rating, diterapkan algoritma Firefly sebagai metode optimasi dalam menentukan rekomendasi film yang paling sesuai dengan preferensi pengguna. Hasil pengujian menunjukkan sistem mampu memberikan rekomendasi dengan tingkat kesalahan prediksi yang masih dalam batas wajar (MAE = 2,40 dan MSE = 5,76). 
